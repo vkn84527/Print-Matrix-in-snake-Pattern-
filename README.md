@@ -16,6 +16,6 @@
 21 89 87<br/>
 70 78 15<br/>
 
-# Printing it in snake pattern will lead to the output as 45 48 54 87 89 21 70 78 15.
+ Printing it in snake pattern will lead to the output as 45 48 54 87 89 21 70 78 15.
 # Resource 
 [Click_Here](https://practice.geeksforgeeks.org/problems/print-matrix-in-snake-pattern/0/?track=dsa-self-paced-preview-matrix&batchId=174)
